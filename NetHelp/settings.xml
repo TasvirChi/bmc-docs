@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <settings>
   <theme>
-    <layout>themes/Kaltura_theme/layout.html</layout>
+    <layout>themes/Borhan_theme/layout.html</layout>
     <stylesheet>css/wijmo/aristo/jquery-wijmo.css</stylesheet>
   </theme>
   <references>
-    <join>themes/Kaltura_theme/settings.theme.xml</join>
-    <join>themes/Kaltura_theme/settings.en-us.xml</join>
+    <join>themes/Borhan_theme/settings.theme.xml</join>
+    <join>themes/Borhan_theme/settings.en-us.xml</join>
     <css>LinksExt/C1H_HTML.css</css>
   </references>
   <strings>
-    <pageHeaderText>Kaltura Management Console (KMC) On Line Help - Jupiter</pageHeaderText>
+    <pageHeaderText>Borhan Management Console (BMC) On Line Help - Jupiter</pageHeaderText>
     <emailAddress>support@mycompany.com</emailAddress>
   </strings>
   <windows>

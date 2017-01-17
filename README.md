@@ -1,5 +1,5 @@
-# kmc-docs
-All help links ('?' buttons) in KMC lead here.
+# bmc-docs
+All help links ('?' buttons) in BMC lead here.
 
 ## Installation
-unzip tag to /opt/kaltura/web/content/docs
+unzip tag to /opt/borhan/web/content/docs

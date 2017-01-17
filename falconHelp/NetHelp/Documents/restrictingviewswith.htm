@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<html><head><title>Restricting Views with a Kaltura Session</title><link rel="stylesheet" type="text/css" href="../LinksExt/Kaltura_Management_Console_(KMC)_User_Manual_Falcon_good.css" />
+<html><head><title>Restricting Views with a Borhan Session</title><link rel="stylesheet" type="text/css" href="../LinksExt/Borhan_Management_Console_(BMC)_User_Manual_Falcon_good.css" />
 <meta name="topicId" content="fe2ea654-6b3f-4dbc-8674-cc0c2d21cd5b" />
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <script src="../js/nethelp.redirector.js" type="text/javascript"></script>
@@ -8,29 +8,29 @@
 <meta name="D2HTheme" content="Falcon_theme" />
 </head>
 <body>
-<h2><a name="_Restricting_Views_with" id="_Restricting_Views_with"></a>Restricting Views with a Kaltura 
+<h2><a name="_Restricting_Views_with" id="_Restricting_Views_with"></a>Restricting Views with a Borhan 
 Session</h2>
 <p class="MsoBodyText">Often, the user authentication/entitlement mechanism that 
 decides whether a user is entitled to access a specific media entry or not, will 
-reside outside of Kaltura. When the authentication mechanism resides outside 
-Kaltura, we recommend that you use an Advanced Kaltura Session (KS) based Access 
-Control mechanism, that permits access to the media only when a valid Kaltura 
+reside outside of Borhan. When the authentication mechanism resides outside 
+Borhan, we recommend that you use an Advanced Borhan Session (KS) based Access 
+Control mechanism, that permits access to the media only when a valid Borhan 
 Session is provided. .The external entitlement mechanism will then generate the 
-valid Kaltura Session when users should be permitted to view the content.</p>
+valid Borhan Session when users should be permitted to view the content.</p>
 <p class="MsoBodyText">The session is created using a secret. The external 
 entitlement mechanism will then generate the valid KS when users should be 
 permitted to view the content. Common examples include - </p>
 <p class="MsoBodyText">When implementing paid content where the payment gateway is 
-not Kaltura, the server processing the payment will be the mechanism deciding on 
+not Borhan, the server processing the payment will be the mechanism deciding on 
 entitlement. After the payment is processed, the payment server creates a valid 
-Kaltura Session by calling the Kaltura API and passes that KS to the Kaltura 
+Borhan Session by calling the Borhan API and passes that KS to the Borhan 
 player.</p>
 <p class="MsoBodyText">When implementing a single-sign-on and permissions 
-mechanism using LDAP or other authentication mechanism outside of Kaltura, the 
+mechanism using LDAP or other authentication mechanism outside of Borhan, the 
 server responsible for user authentication contains the entitlement logic. The 
-authentication server will call the Kaltura API and generate a valid KS when 
+authentication server will call the Borhan API and generate a valid KS when 
 appropriate.</p>
-<p class="MsoBodyText">A Kaltura Player marked with tokenized access requires a 
+<p class="MsoBodyText">A Borhan Player marked with tokenized access requires a 
 “session token” to be created and provided during every playback. A session 
 token can only be created by a developer possessing valid credentials and 
 expires after a limited amount of time. Thus, even if an attempt to grab the 

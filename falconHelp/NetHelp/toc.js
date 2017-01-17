@@ -1,13 +1,13 @@
 [
     {
-        "url": "Documents/kmcoverview.htm",
-        "title": "KMC Overview",
-        "tooltip": "KMC Overview",
+        "url": "Documents/bmcoverview.htm",
+        "title": "BMC Overview",
+        "tooltip": "BMC Overview",
         "items": [
             {
-                "url": "Documents/whatcanidowiththekmc.htm",
-                "title": "What Can I Do with the KMC?",
-                "tooltip": "What Can I Do with the KMC?"
+                "url": "Documents/whatcanidowiththebmc.htm",
+                "title": "What Can I Do with the BMC?",
+                "tooltip": "What Can I Do with the BMC?"
             },
             {
                 "url": "Documents/mediamanagementandwo.htm",
@@ -32,9 +32,9 @@
         "tooltip": "Uploading and Ingestion",
         "items": [
             {
-                "url": "Documents/whatisakalturaentry.htm",
-                "title": "What is a Kaltura Entry?",
-                "tooltip": "What is a Kaltura Entry?"
+                "url": "Documents/whatisaborhanentry.htm",
+                "title": "What is a Borhan Entry?",
+                "tooltip": "What is a Borhan Entry?"
             },
             {
                 "url": "Documents/browserbasedingestio.htm",
@@ -42,9 +42,9 @@
                 "tooltip": "Browser-based Ingestion"
             },
             {
-                "url": "Documents/thekalturauploader.htm",
-                "title": "The Kaltura Uploader",
-                "tooltip": "The Kaltura Uploader"
+                "url": "Documents/theborhanuploader.htm",
+                "title": "The Borhan Uploader",
+                "tooltip": "The Borhan Uploader"
             },
             {
                 "url": "Documents/theuploadtab.htm",
@@ -100,15 +100,15 @@
                     },
                     {
                         "url": "Documents/hostingvideosatyourp.htm",
-                        "title": "Hosting Videos at your Preferred Location and Linking to Kaltura",
-                        "tooltip": "Hosting Videos at your Preferred Location and Linking to Kaltura"
+                        "title": "Hosting Videos at your Preferred Location and Linking to Borhan",
+                        "tooltip": "Hosting Videos at your Preferred Location and Linking to Borhan"
                     }
                 ]
             },
             {
                 "url": "Documents/replacingvideoassets.htm",
-                "title": "Replacing Video Assets for a Kaltura Entry",
-                "tooltip": "Replacing Video Assets for a Kaltura Entry"
+                "title": "Replacing Video Assets for a Borhan Entry",
+                "tooltip": "Replacing Video Assets for a Borhan Entry"
             },
             {
                 "url": "Documents/uploadingandmodifyin.htm",
@@ -541,9 +541,9 @@
                 "tooltip": "Metadata and Related Files",
                 "items": [
                     {
-                        "url": "Documents/kalturacustommetadat.htm",
-                        "title": "Kaltura Custom Metadata Functionality",
-                        "tooltip": "Kaltura Custom Metadata Functionality",
+                        "url": "Documents/borhancustommetadat.htm",
+                        "title": "Borhan Custom Metadata Functionality",
+                        "tooltip": "Borhan Custom Metadata Functionality",
                         "items": [
                             {
                                 "url": "Documents/usingcustomdataforen.htm",
@@ -609,8 +609,8 @@
     },
     {
         "url": "Documents/locatingcontentinthe.htm",
-        "title": "Locating Content in the KMC",
-        "tooltip": "Locating Content in the KMC",
+        "title": "Locating Content in the BMC",
+        "tooltip": "Locating Content in the BMC",
         "items": [
             {
                 "url": "Documents/searchingthroughentr.htm",
@@ -741,8 +741,8 @@
             },
             {
                 "url": "Documents/restrictingviewswith.htm",
-                "title": "Restricting Views with a Kaltura Session",
-                "tooltip": "Restricting Views with a Kaltura Session",
+                "title": "Restricting Views with a Borhan Session",
+                "tooltip": "Restricting Views with a Borhan Session",
                 "items": [
                     {
                         "url": "Documents/payperview.htm",
@@ -776,9 +776,9 @@
         "tooltip": "Managing Content Entitlement",
         "items": [
             {
-                "url": "Documents/kalturasentitlementm.htm",
-                "title": "Kaltura’s Entitlement Model",
-                "tooltip": "Kaltura’s Entitlement Model"
+                "url": "Documents/borhansentitlementm.htm",
+                "title": "Borhan’s Entitlement Model",
+                "tooltip": "Borhan’s Entitlement Model"
             },
             {
                 "url": "Documents/categorysentitlement.htm",
@@ -945,9 +945,9 @@
         ]
     },
     {
-        "url": "Documents/kmcusersandroles.htm",
-        "title": "KMC Users and Roles",
-        "tooltip": "KMC Users and Roles",
+        "url": "Documents/bmcusersandroles.htm",
+        "title": "BMC Users and Roles",
+        "tooltip": "BMC Users and Roles",
         "items": [
             {
                 "url": "Documents/rolesandpermissions.htm",
@@ -1077,8 +1077,8 @@
         "items": [
             {
                 "url": "Documents/livestreamingusingth.htm",
-                "title": "Live Streaming Using the KMC",
-                "tooltip": "Live Streaming Using the KMC"
+                "title": "Live Streaming Using the BMC",
+                "tooltip": "Live Streaming Using the BMC"
             },
             {
                 "url": "Documents/workflowforsettingup.htm",
@@ -1092,8 +1092,8 @@
                     },
                     {
                         "url": "Documents/creatingalivestreami.htm",
-                        "title": "Creating a Live Streaming Entry in the KMC",
-                        "tooltip": "Creating a Live Streaming Entry in the KMC"
+                        "title": "Creating a Live Streaming Entry in the BMC",
+                        "tooltip": "Creating a Live Streaming Entry in the BMC"
                     },
                     {
                         "url": "Documents/multiplebitrateencod.htm",
@@ -1102,8 +1102,8 @@
                     },
                     {
                         "url": "Documents/configuringthelivest.htm",
-                        "title": "Configuring the Live Stream Parameters in the KMC",
-                        "tooltip": "Configuring the Live Stream Parameters in the KMC"
+                        "title": "Configuring the Live Stream Parameters in the BMC",
+                        "tooltip": "Configuring the Live Stream Parameters in the BMC"
                     },
                     {
                         "url": "Documents/settingupthebroadcas.htm",
@@ -1302,9 +1302,9 @@
         "tooltip": "Distribution and Syndication",
         "items": [
             {
-                "url": "Documents/kalturadistributionm.htm",
-                "title": "Kaltura Distribution Module",
-                "tooltip": "Kaltura Distribution Module",
+                "url": "Documents/borhandistributionm.htm",
+                "title": "Borhan Distribution Module",
+                "tooltip": "Borhan Distribution Module",
                 "items": [
                     {
                         "url": "Documents/keybenefits.htm",
@@ -1397,9 +1397,9 @@
                         "tooltip": "Google Webmaster Tasks"
                     },
                     {
-                        "url": "Documents/kmcpublishertasksfor.htm",
-                        "title": "KMC Publisher Tasks for Google Syndication",
-                        "tooltip": "KMC Publisher Tasks for Google Syndication",
+                        "url": "Documents/bmcpublishertasksfor.htm",
+                        "title": "BMC Publisher Tasks for Google Syndication",
+                        "tooltip": "BMC Publisher Tasks for Google Syndication",
                         "items": [
                             {
                                 "url": "Documents/googlefeedparameters.htm",
@@ -1415,9 +1415,9 @@
                         "tooltip": "Syndicating to TubeMogul"
                     },
                     {
-                        "url": "Documents/kmcpublishertasksfor1.htm",
-                        "title": "KMC Publisher Tasks for TubeMogul Syndication",
-                        "tooltip": "KMC Publisher Tasks for TubeMogul Syndication",
+                        "url": "Documents/bmcpublishertasksfor1.htm",
+                        "title": "BMC Publisher Tasks for TubeMogul Syndication",
+                        "tooltip": "BMC Publisher Tasks for TubeMogul Syndication",
                         "items": [
                             {
                                 "url": "Documents/tubemogulfeedparamet.htm",
@@ -1438,9 +1438,9 @@
                         "tooltip": "Syndicating to iTunes"
                     },
                     {
-                        "url": "Documents/kmcpublishertasksfor2.htm",
-                        "title": "KMC Publisher Tasks for iTunes Syndication",
-                        "tooltip": "KMC Publisher Tasks for iTunes Syndication",
+                        "url": "Documents/bmcpublishertasksfor2.htm",
+                        "title": "BMC Publisher Tasks for iTunes Syndication",
+                        "tooltip": "BMC Publisher Tasks for iTunes Syndication",
                         "items": [
                             {
                                 "url": "Documents/itunesfeedparameters.htm",
@@ -1456,9 +1456,9 @@
                         "tooltip": "Syndicating to Yahoo"
                     },
                     {
-                        "url": "Documents/kmcpublishertasksfor3.htm",
-                        "title": "KMC Publisher Tasks for Yahoo Syndication",
-                        "tooltip": "KMC Publisher Tasks for Yahoo Syndication"
+                        "url": "Documents/bmcpublishertasksfor3.htm",
+                        "title": "BMC Publisher Tasks for Yahoo Syndication",
+                        "tooltip": "BMC Publisher Tasks for Yahoo Syndication"
                     },
                     {
                         "url": "Documents/yahoowebmastertasks.htm",
@@ -1498,9 +1498,9 @@
                 "tooltip": "Connecting with an Ad Server",
                 "items": [
                     {
-                        "url": "Documents/kalturaplayerandadpl.htm",
-                        "title": "Kaltura Player and Ad Plugins",
-                        "tooltip": "Kaltura Player and Ad Plugins"
+                        "url": "Documents/borhanplayerandadpl.htm",
+                        "title": "Borhan Player and Ad Plugins",
+                        "tooltip": "Borhan Player and Ad Plugins"
                     },
                     {
                         "url": "Documents/supportedadservers.htm",
@@ -1515,9 +1515,9 @@
                 ]
             },
             {
-                "url": "Documents/creatingkalturavideo.htm",
-                "title": "Creating Kaltura Video Ads",
-                "tooltip": "Creating Kaltura Video Ads"
+                "url": "Documents/creatingborhanvideo.htm",
+                "title": "Creating Borhan Video Ads",
+                "tooltip": "Creating Borhan Video Ads"
             },
             {
                 "url": "Documents/addingthevastadserve.htm",
@@ -1655,9 +1655,9 @@
                 ]
             },
             {
-                "url": "Documents/kalturaplayeradditio.htm",
-                "title": "Kaltura Player Additions Related to Ads",
-                "tooltip": "Kaltura Player Additions Related to Ads"
+                "url": "Documents/borhanplayeradditio.htm",
+                "title": "Borhan Player Additions Related to Ads",
+                "tooltip": "Borhan Player Additions Related to Ads"
             },
             {
                 "url": "Documents/troubleshooting.htm",
@@ -1798,9 +1798,9 @@
                         "tooltip": "Sending Analytics Events to Third Parties"
                     },
                     {
-                        "url": "Documents/kalturaplayersupport.htm",
-                        "title": "Kaltura Player Supported Plug-ins",
-                        "tooltip": "Kaltura Player Supported Plug-ins"
+                        "url": "Documents/borhanplayersupport.htm",
+                        "title": "Borhan Player Supported Plug-ins",
+                        "tooltip": "Borhan Player Supported Plug-ins"
                     }
                 ]
             }

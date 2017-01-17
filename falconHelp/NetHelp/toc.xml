@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <toc>
-  <item url="Documents/kmcoverview.htm">
-    <title><![CDATA[KMC Overview]]></title>
-    <tooltip><![CDATA[KMC Overview]]></tooltip>
-    <item url="Documents/whatcanidowiththekmc.htm">
-      <title><![CDATA[What Can I Do with the KMC?]]></title>
-      <tooltip><![CDATA[What Can I Do with the KMC?]]></tooltip>
+  <item url="Documents/bmcoverview.htm">
+    <title><![CDATA[BMC Overview]]></title>
+    <tooltip><![CDATA[BMC Overview]]></tooltip>
+    <item url="Documents/whatcanidowiththebmc.htm">
+      <title><![CDATA[What Can I Do with the BMC?]]></title>
+      <tooltip><![CDATA[What Can I Do with the BMC?]]></tooltip>
     </item>
     <item url="Documents/mediamanagementandwo.htm">
       <title><![CDATA[Media Management and Workflow]]></title>
@@ -23,17 +23,17 @@
   <item url="Documents/uploadingandingestio.htm">
     <title><![CDATA[Uploading and Ingestion]]></title>
     <tooltip><![CDATA[Uploading and Ingestion]]></tooltip>
-    <item url="Documents/whatisakalturaentry.htm">
-      <title><![CDATA[What is a Kaltura Entry?]]></title>
-      <tooltip><![CDATA[What is a Kaltura Entry?]]></tooltip>
+    <item url="Documents/whatisaborhanentry.htm">
+      <title><![CDATA[What is a Borhan Entry?]]></title>
+      <tooltip><![CDATA[What is a Borhan Entry?]]></tooltip>
     </item>
     <item url="Documents/browserbasedingestio.htm">
       <title><![CDATA[Browser-based Ingestion]]></title>
       <tooltip><![CDATA[Browser-based Ingestion]]></tooltip>
     </item>
-    <item url="Documents/thekalturauploader.htm">
-      <title><![CDATA[The Kaltura Uploader]]></title>
-      <tooltip><![CDATA[The Kaltura Uploader]]></tooltip>
+    <item url="Documents/theborhanuploader.htm">
+      <title><![CDATA[The Borhan Uploader]]></title>
+      <tooltip><![CDATA[The Borhan Uploader]]></tooltip>
     </item>
     <item url="Documents/theuploadtab.htm">
       <title><![CDATA[The Upload Tab]]></title>
@@ -75,13 +75,13 @@
         <tooltip><![CDATA[Key Benefits and Functionality]]></tooltip>
       </item>
       <item url="Documents/hostingvideosatyourp.htm">
-        <title><![CDATA[Hosting Videos at your Preferred Location and Linking to Kaltura]]></title>
-        <tooltip><![CDATA[Hosting Videos at your Preferred Location and Linking to Kaltura]]></tooltip>
+        <title><![CDATA[Hosting Videos at your Preferred Location and Linking to Borhan]]></title>
+        <tooltip><![CDATA[Hosting Videos at your Preferred Location and Linking to Borhan]]></tooltip>
       </item>
     </item>
     <item url="Documents/replacingvideoassets.htm">
-      <title><![CDATA[Replacing Video Assets for a Kaltura Entry]]></title>
-      <tooltip><![CDATA[Replacing Video Assets for a Kaltura Entry]]></tooltip>
+      <title><![CDATA[Replacing Video Assets for a Borhan Entry]]></title>
+      <tooltip><![CDATA[Replacing Video Assets for a Borhan Entry]]></tooltip>
     </item>
     <item url="Documents/uploadingandmodifyin.htm">
       <title><![CDATA[Uploading and Modifying Related Files]]></title>
@@ -390,9 +390,9 @@
     <item url="Documents/metadataandrelatedfi.htm">
       <title><![CDATA[Metadata and Related Files]]></title>
       <tooltip><![CDATA[Metadata and Related Files]]></tooltip>
-      <item url="Documents/kalturacustommetadat.htm">
-        <title><![CDATA[Kaltura Custom Metadata Functionality]]></title>
-        <tooltip><![CDATA[Kaltura Custom Metadata Functionality]]></tooltip>
+      <item url="Documents/borhancustommetadat.htm">
+        <title><![CDATA[Borhan Custom Metadata Functionality]]></title>
+        <tooltip><![CDATA[Borhan Custom Metadata Functionality]]></tooltip>
         <item url="Documents/usingcustomdataforen.htm" window="proc">
           <title><![CDATA[Using Custom Data for Entries]]></title>
           <tooltip><![CDATA[Using Custom Data for Entries]]></tooltip>
@@ -437,8 +437,8 @@
     </item>
   </item>
   <item url="Documents/locatingcontentinthe.htm">
-    <title><![CDATA[Locating Content in the KMC]]></title>
-    <tooltip><![CDATA[Locating Content in the KMC]]></tooltip>
+    <title><![CDATA[Locating Content in the BMC]]></title>
+    <tooltip><![CDATA[Locating Content in the BMC]]></tooltip>
     <item url="Documents/searchingthroughentr.htm">
       <title><![CDATA[Searching Through Entries]]></title>
       <tooltip><![CDATA[Searching Through Entries]]></tooltip>
@@ -528,8 +528,8 @@
       </item>
     </item>
     <item url="Documents/restrictingviewswith.htm">
-      <title><![CDATA[Restricting Views with a Kaltura Session]]></title>
-      <tooltip><![CDATA[Restricting Views with a Kaltura Session]]></tooltip>
+      <title><![CDATA[Restricting Views with a Borhan Session]]></title>
+      <tooltip><![CDATA[Restricting Views with a Borhan Session]]></tooltip>
       <item url="Documents/payperview.htm">
         <title><![CDATA[Pay-Per-View]]></title>
         <tooltip><![CDATA[Pay-Per-View]]></tooltip>
@@ -551,9 +551,9 @@
   <item url="Documents/managingcontententit.htm">
     <title><![CDATA[Managing Content Entitlement]]></title>
     <tooltip><![CDATA[Managing Content Entitlement]]></tooltip>
-    <item url="Documents/kalturasentitlementm.htm">
-      <title><![CDATA[Kaltura’s Entitlement Model]]></title>
-      <tooltip><![CDATA[Kaltura’s Entitlement Model]]></tooltip>
+    <item url="Documents/borhansentitlementm.htm">
+      <title><![CDATA[Borhan’s Entitlement Model]]></title>
+      <tooltip><![CDATA[Borhan’s Entitlement Model]]></tooltip>
     </item>
     <item url="Documents/categorysentitlement.htm">
       <title><![CDATA[Category’s Entitlements Tab]]></title>
@@ -676,9 +676,9 @@
       </item>
     </item>
   </item>
-  <item url="Documents/kmcusersandroles.htm">
-    <title><![CDATA[KMC Users and Roles]]></title>
-    <tooltip><![CDATA[KMC Users and Roles]]></tooltip>
+  <item url="Documents/bmcusersandroles.htm">
+    <title><![CDATA[BMC Users and Roles]]></title>
+    <tooltip><![CDATA[BMC Users and Roles]]></tooltip>
     <item url="Documents/rolesandpermissions.htm">
       <title><![CDATA[Roles and Permissions]]></title>
       <tooltip><![CDATA[Roles and Permissions]]></tooltip>
@@ -768,8 +768,8 @@
     <title><![CDATA[Live Streaming]]></title>
     <tooltip><![CDATA[Live Streaming]]></tooltip>
     <item url="Documents/livestreamingusingth.htm">
-      <title><![CDATA[Live Streaming Using the KMC]]></title>
-      <tooltip><![CDATA[Live Streaming Using the KMC]]></tooltip>
+      <title><![CDATA[Live Streaming Using the BMC]]></title>
+      <tooltip><![CDATA[Live Streaming Using the BMC]]></tooltip>
     </item>
     <item url="Documents/workflowforsettingup.htm">
       <title><![CDATA[Workflow for Setting up Live Streaming]]></title>
@@ -779,16 +779,16 @@
         <tooltip><![CDATA[Setting up the Hardware and Software]]></tooltip>
       </item>
       <item url="Documents/creatingalivestreami.htm">
-        <title><![CDATA[Creating a Live Streaming Entry in the KMC]]></title>
-        <tooltip><![CDATA[Creating a Live Streaming Entry in the KMC]]></tooltip>
+        <title><![CDATA[Creating a Live Streaming Entry in the BMC]]></title>
+        <tooltip><![CDATA[Creating a Live Streaming Entry in the BMC]]></tooltip>
       </item>
       <item url="Documents/multiplebitrateencod.htm">
         <title><![CDATA[Multiple Bitrate Encoding]]></title>
         <tooltip><![CDATA[Multiple Bitrate Encoding]]></tooltip>
       </item>
       <item url="Documents/configuringthelivest.htm">
-        <title><![CDATA[Configuring the Live Stream Parameters in the KMC]]></title>
-        <tooltip><![CDATA[Configuring the Live Stream Parameters in the KMC]]></tooltip>
+        <title><![CDATA[Configuring the Live Stream Parameters in the BMC]]></title>
+        <tooltip><![CDATA[Configuring the Live Stream Parameters in the BMC]]></tooltip>
       </item>
       <item url="Documents/settingupthebroadcas.htm">
         <title><![CDATA[Setting up the Broadcasting Computer]]></title>
@@ -935,9 +935,9 @@
   <item url="Documents/distributionandsyndi.htm">
     <title><![CDATA[Distribution and Syndication]]></title>
     <tooltip><![CDATA[Distribution and Syndication]]></tooltip>
-    <item url="Documents/kalturadistributionm.htm">
-      <title><![CDATA[Kaltura Distribution Module]]></title>
-      <tooltip><![CDATA[Kaltura Distribution Module]]></tooltip>
+    <item url="Documents/borhandistributionm.htm">
+      <title><![CDATA[Borhan Distribution Module]]></title>
+      <tooltip><![CDATA[Borhan Distribution Module]]></tooltip>
       <item url="Documents/keybenefits.htm">
         <title><![CDATA[Key Benefits:]]></title>
         <tooltip><![CDATA[Key Benefits:]]></tooltip>
@@ -1002,9 +1002,9 @@
         <title><![CDATA[Google Webmaster Tasks]]></title>
         <tooltip><![CDATA[Google Webmaster Tasks]]></tooltip>
       </item>
-      <item url="Documents/kmcpublishertasksfor.htm">
-        <title><![CDATA[KMC Publisher Tasks for Google Syndication]]></title>
-        <tooltip><![CDATA[KMC Publisher Tasks for Google Syndication]]></tooltip>
+      <item url="Documents/bmcpublishertasksfor.htm">
+        <title><![CDATA[BMC Publisher Tasks for Google Syndication]]></title>
+        <tooltip><![CDATA[BMC Publisher Tasks for Google Syndication]]></tooltip>
         <item url="Documents/googlefeedparameters.htm" window="proc">
           <title><![CDATA[Google: Feed Parameters]]></title>
           <tooltip><![CDATA[Google: Feed Parameters]]></tooltip>
@@ -1014,9 +1014,9 @@
         <title><![CDATA[Syndicating to TubeMogul]]></title>
         <tooltip><![CDATA[Syndicating to TubeMogul]]></tooltip>
       </item>
-      <item url="Documents/kmcpublishertasksfor1.htm">
-        <title><![CDATA[KMC Publisher Tasks for TubeMogul Syndication]]></title>
-        <tooltip><![CDATA[KMC Publisher Tasks for TubeMogul Syndication]]></tooltip>
+      <item url="Documents/bmcpublishertasksfor1.htm">
+        <title><![CDATA[BMC Publisher Tasks for TubeMogul Syndication]]></title>
+        <tooltip><![CDATA[BMC Publisher Tasks for TubeMogul Syndication]]></tooltip>
         <item url="Documents/tubemogulfeedparamet.htm" window="proc">
           <title><![CDATA[TubeMogul: Feed Parameters]]></title>
           <tooltip><![CDATA[TubeMogul: Feed Parameters]]></tooltip>
@@ -1030,9 +1030,9 @@
         <title><![CDATA[Syndicating to iTunes]]></title>
         <tooltip><![CDATA[Syndicating to iTunes]]></tooltip>
       </item>
-      <item url="Documents/kmcpublishertasksfor2.htm">
-        <title><![CDATA[KMC Publisher Tasks for iTunes Syndication]]></title>
-        <tooltip><![CDATA[KMC Publisher Tasks for iTunes Syndication]]></tooltip>
+      <item url="Documents/bmcpublishertasksfor2.htm">
+        <title><![CDATA[BMC Publisher Tasks for iTunes Syndication]]></title>
+        <tooltip><![CDATA[BMC Publisher Tasks for iTunes Syndication]]></tooltip>
         <item url="Documents/itunesfeedparameters.htm" window="proc">
           <title><![CDATA[iTunes: Feed Parameters]]></title>
           <tooltip><![CDATA[iTunes: Feed Parameters]]></tooltip>
@@ -1042,9 +1042,9 @@
         <title><![CDATA[Syndicating to Yahoo]]></title>
         <tooltip><![CDATA[Syndicating to Yahoo]]></tooltip>
       </item>
-      <item url="Documents/kmcpublishertasksfor3.htm">
-        <title><![CDATA[KMC Publisher Tasks for Yahoo Syndication]]></title>
-        <tooltip><![CDATA[KMC Publisher Tasks for Yahoo Syndication]]></tooltip>
+      <item url="Documents/bmcpublishertasksfor3.htm">
+        <title><![CDATA[BMC Publisher Tasks for Yahoo Syndication]]></title>
+        <tooltip><![CDATA[BMC Publisher Tasks for Yahoo Syndication]]></tooltip>
       </item>
       <item url="Documents/yahoowebmastertasks.htm">
         <title><![CDATA[Yahoo Webmaster Tasks]]></title>
@@ -1070,9 +1070,9 @@
     <item url="Documents/connectingwithanadse.htm">
       <title><![CDATA[Connecting with an Ad Server]]></title>
       <tooltip><![CDATA[Connecting with an Ad Server]]></tooltip>
-      <item url="Documents/kalturaplayerandadpl.htm">
-        <title><![CDATA[Kaltura Player and Ad Plugins]]></title>
-        <tooltip><![CDATA[Kaltura Player and Ad Plugins]]></tooltip>
+      <item url="Documents/borhanplayerandadpl.htm">
+        <title><![CDATA[Borhan Player and Ad Plugins]]></title>
+        <tooltip><![CDATA[Borhan Player and Ad Plugins]]></tooltip>
       </item>
       <item url="Documents/supportedadservers.htm">
         <title><![CDATA[Supported Ad Servers]]></title>
@@ -1083,9 +1083,9 @@
         <tooltip><![CDATA[Ad Terminology]]></tooltip>
       </item>
     </item>
-    <item url="Documents/creatingkalturavideo.htm">
-      <title><![CDATA[Creating Kaltura Video Ads]]></title>
-      <tooltip><![CDATA[Creating Kaltura Video Ads]]></tooltip>
+    <item url="Documents/creatingborhanvideo.htm">
+      <title><![CDATA[Creating Borhan Video Ads]]></title>
+      <tooltip><![CDATA[Creating Borhan Video Ads]]></tooltip>
     </item>
     <item url="Documents/addingthevastadserve.htm">
       <title><![CDATA[Adding the VAST Ad Server]]></title>
@@ -1187,9 +1187,9 @@
         <tooltip><![CDATA[Different Types of Ad Servers]]></tooltip>
       </item>
     </item>
-    <item url="Documents/kalturaplayeradditio.htm">
-      <title><![CDATA[Kaltura Player Additions Related to Ads]]></title>
-      <tooltip><![CDATA[Kaltura Player Additions Related to Ads]]></tooltip>
+    <item url="Documents/borhanplayeradditio.htm">
+      <title><![CDATA[Borhan Player Additions Related to Ads]]></title>
+      <tooltip><![CDATA[Borhan Player Additions Related to Ads]]></tooltip>
     </item>
     <item url="Documents/troubleshooting.htm">
       <title><![CDATA[Troubleshooting]]></title>
@@ -1294,9 +1294,9 @@
         <title><![CDATA[Sending Analytics Events to Third Parties]]></title>
         <tooltip><![CDATA[Sending Analytics Events to Third Parties]]></tooltip>
       </item>
-      <item url="Documents/kalturaplayersupport.htm">
-        <title><![CDATA[Kaltura Player Supported Plug-ins]]></title>
-        <tooltip><![CDATA[Kaltura Player Supported Plug-ins]]></tooltip>
+      <item url="Documents/borhanplayersupport.htm">
+        <title><![CDATA[Borhan Player Supported Plug-ins]]></title>
+        <tooltip><![CDATA[Borhan Player Supported Plug-ins]]></tooltip>
       </item>
     </item>
   </item>

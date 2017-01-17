@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <settings>
   <theme>
-    <name>Kaltura_theme</name>
+    <name>Borhan_theme</name>
     <predefined>false</predefined>
     <baseTheme>Tabs</baseTheme>
     <baseVersion>1.11.3</baseVersion>
   </theme>
   <pageHeader>
-    <logoImage>images/kaltura_logo_transparent_large.png</logoImage>
+    <logoImage>images/borhan_logo_transparent_large.png</logoImage>
   </pageHeader>
   <topic>
     <applyStylesheet>true</applyStylesheet>

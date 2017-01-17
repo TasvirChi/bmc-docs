@@ -1,6 +1,6 @@
 #,,,,,,,,,,,,
 "# action - Mandatory parameter. Possible values: 1- add, 2- update, 3- delete, 6- add or update.",,,,,,,,,,,,
-# userId - mandatory parameter for all actions. Represents the id of the KalturaUser.,,,,,,,,,,,,
+# userId - mandatory parameter for all actions. Represents the id of the BorhanUser.,,,,,,,,,,,,
 # screenName - optional parameter to set the user's screenName property value,,,,,,,,,,,,
 "# firstName - optional, default value null.",,,,,,,,,,,,
 "# lastName - optional, default value null.",,,,,,,,,,,,
